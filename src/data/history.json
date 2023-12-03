@@ -1,0 +1,26 @@
+[
+  {
+    "role": "Electrical Engineer",
+    "organisation": "Tung Pae Farm",
+    "startDate": "Jan, 2022",
+    "endDate": "Sep, 2022",
+    "experiences": ["Maintain electrical equipment", "Import technology from germany"],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "PLC Programmer",
+    "organisation": "TVT compack world",
+    "startDate": "Jan, 2021",
+    "endDate": "Dec, 2021",
+    "experiences": ["Coding plc programming", "Designed the control panel"],
+    "imageSrc": "history/microsoft.png"
+  },
+  {
+    "role": "Site Engineer",
+    "organisation": "Smart Green Solution",
+    "startDate": "Jul, 2020",
+    "endDate": "Dec, 2020",
+    "experiences": ["Install pv modules","Manage 14 staffs"],
+    "imageSrc": "history/netflix.png"
+  }
+]
