@@ -9,5 +9,5 @@ export default defineConfig({
       localsConvention:"camelCase",
     },
   },
-  base:"/vite-deploy/"
+  // base:"/vite-deploy/"
 });

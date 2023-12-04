@@ -6,6 +6,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "test":"vitest",
     "build": "vite build",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
@@ -16,7 +17,8 @@
     "@fontsource/outfit": "^5.0.8",
     "@fontsource/roboto": "^5.0.8",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.20.1"
   },
   "devDependencies": {
     "@types/react": "^18.2.37",
